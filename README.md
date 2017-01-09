@@ -9,4 +9,4 @@ O projeto possui 5 camadas:
 	3 - Texto Resumo;
 	4 - Texto Título;
 	5 - Nome do autor no centro da capa.
-![alt tag](https://github.com/jonatasferreira/capaDVD-PPGCC-UFPI/raw/master/img.png)
+
